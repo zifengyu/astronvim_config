@@ -1,4 +1,5 @@
 -- set vim options here (vim.<first_key>.<second_key> = value)
+vim.lsp.set_log_level("off")
 return {
   opt = {
     -- set to true or false etc.
